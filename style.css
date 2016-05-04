@@ -1,0 +1,32 @@
+body{
+	background-color:#ff0066;
+}
+p{
+	color:#000000;
+	text-align: center;
+
+}
+h1{
+	color:#4d4dff;
+	align-content: center;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+}
+.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+}
